@@ -1,0 +1,104 @@
+city name,population,x,y,type,[province]
+Calgary
+1340000
+367
+661
+city
+Charlottetown
+36000
+914
+728
+prov_cap
+Prince Edward Island
+Edmonton
+980000
+375
+625
+prov_cap
+Alberta
+Fredricton
+58000
+875
+730
+prov_cap
+New Brunswick
+Halifax
+431000
+913
+748
+prov_cap
+Nova Scotia
+Iqaluit
+8000
+857
+465
+prov_cap
+Nunavut
+London
+405000
+723
+770
+city
+Montreal
+1780000
+802
+737
+city
+Ottawa
+1000000
+780
+740
+nat_cap
+Quebec City
+540000
+823
+720
+prov_cap
+Quebec
+Regina
+230000
+465
+664
+prov_cap
+Saskatchewan
+St. John's
+115000
+1024
+712
+prov_cap
+Newfoundland and Labrador
+Toronto
+3000000
+750
+762
+prov_cap
+Ontario
+Vancouver
+675000
+273
+683
+city
+Victoria
+92000
+262
+698
+prov_cap
+British Columbia
+Whitehorse
+25000
+140
+517
+prov_cap
+Yukon
+Winnipeg
+750000
+546
+670
+prov_cap
+Manitoba
+Yellowknife
+20000
+377
+485
+prov_cap
+Northwest Territories
